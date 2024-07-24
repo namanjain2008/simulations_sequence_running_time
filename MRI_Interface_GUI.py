@@ -1,3 +1,6 @@
+#Authors: @njainmpi, @shreyaj661
+#Dated: 24th July, 2024
+
 import tkinter as tk
 from tkinter import ttk
 import matplotlib.pyplot as plt
